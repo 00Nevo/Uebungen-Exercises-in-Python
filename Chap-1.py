@@ -10,3 +10,6 @@ Why Do People Use Python?
 Software Quality
 
 Developer Productivity
+
+Is Python a “Scripting Language”?
+
