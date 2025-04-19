@@ -23,7 +23,7 @@ Step 4: Removing the Motherboard
 
 POST Diagnostic Cards
 
-Step 5: Removing the Pow er Supply
+Step 5: Removing the Power Supply
 Power Supply Tester
 Steps to Put a Computer Back To gether
 First Look at Laptop Components
